@@ -1,0 +1,6 @@
+name: Zelory
+url: https://zelory.github.io
+description: Zelory blog.
+markdown: redcarpet
+pygments: true
+permalink: /blog/:title/
