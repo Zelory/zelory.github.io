@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zelory</title>
+    <description>Zelory blog.</description>
+    <link>https://zelory.github.io</link>
+    <atom:link href="https://zelory.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;p&gt;Setelah sekian lama hanya menjadi wacana untuk mulai menulis, akhirnya kemarin ketika ada promo domain .id saya paksain untuk membeli domain ini. Awalnya memang sudah lama punya keinginan untuk membuat blog berdua, cuma karena belum sempat ya jadinya cuma sebatas angan. Kalau udah dibeli domain nya gini kan mau ga mau jadi harus dimanfaatkan, kan sayang udah beli domainnya.&lt;/p&gt;
+
+&lt;p&gt;Cuma setelah beli domain masih ada satu lagi masalahnya 😅, websitenya mau di host dimana?, awalnya mau pakai hosting Indonesia yang murah-murah gitu, tapi kok kayaknya sayang ya, orang isinya cuma tulisan-tulisan ga jelas juga nantinya, masa saya mesti bayar buat begituan :v, sempat terpikir juga buat pakai cloud kayak &lt;a href=&quot;http://www.heroku.com&quot;&gt;Heroku&lt;/a&gt; gitu juga, cuma kok kayaknya ribet juga :v padahal gratis ya walaupun ada batasan dyno hours nya, terus kepikiran buat pakai &lt;a href=&quot;https://openshift.redhat.com&quot;&gt;openshift&lt;/a&gt; juga, udah di pake eh ternyata gratisnya cuma beberapa hari doang :v, ya udah ganti lagi pakai &lt;a href=&quot;http://www.digitalocean.com&quot;&gt;DigitalOcean&lt;/a&gt; aja kali ya, kan lumayan dapet server juga kalau nanti mau lakuin hal-hal lain yang ga mungkin di laptop sendiri, kayak buat server &lt;a href=&quot;https://en.wikipedia.org/wiki/MQTT&quot;&gt;MQTT&lt;/a&gt; atau &lt;a href=&quot;https://en.wikipedia.org/wiki/XMPP&quot;&gt;XMPP&lt;/a&gt;, atau dibikin buat ngitung model &lt;a href=&quot;https://www.tensorflow.org&quot;&gt;TensorFlow&lt;/a&gt; 😅, kan kasihan laptopnya kalau dipake buat komputasi tensorflow berhari-hari (gara-gara ga punya GPU yg sangar 😬).&lt;/p&gt;
+
+&lt;p&gt;Setelah dipikir-pikir ulang lagi, akhirnya kepikiran kenapa ga pake &lt;a href=&quot;https://pages.github.com&quot;&gt;static webnya github&lt;/a&gt; aja kan gratis 😂, bisa di custom domain juga. Dan akhirnya jadilah blog ini dibuat pake static webnya github. Ya udah itu sedikit cerita gimana ini blog muuncul ke permukaan dunia maya ini, ditengah kebimbangan juga kenapa ga pake &lt;a href=&quot;https://medium.com&quot;&gt;Medium&lt;/a&gt; aja :v, kan lagi ngetren tu orang-orang nulis di medium. Tapi ya sudahlah, kita pakai blog sendiri aja, dan selamat menikmati tulisan-tulisan luar biasa dari kami Zelory di kemudian hari 😁.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Jan 2017 00:00:00 +0700</pubDate>
+        <link>https://zelory.github.io/blog/hello-world/</link>
+        <guid isPermaLink="true">https://zelory.github.io/blog/hello-world/</guid>
+      </item>
+    
+  </channel>
+</rss>
